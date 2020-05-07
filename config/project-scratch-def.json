@@ -1,0 +1,9 @@
+{
+    "orgName": "platform events fan out",
+    "edition": "Developer",
+    "settings": {
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        }
+    }
+}
