@@ -5,19 +5,18 @@
         cmp.set('v.data', platform_events);
     },
     websocket_error: function(cmp, event, helper, event_name) {
-        console.log(`Websocket: ${event_name}`);
+        helper.set_websocket_status(cmp, event, helper,event_name);
         helper.start_connection(cmp, event, helper);
     },
-    do_message: function(cmp, event, helper, message) {
-        // console.log("message: ", message.data);
-        helper.add_message(cmp, event, helper, JSON.parse(message.data));
-    },
     set_websocket_status: function(cmp, event, helper, status) {
-        console.log(`Websocket: ${status}`);
+        console.log("Websocket: " + status);
+        cmp.set("v.websocket_status", status);
+        console.log("v.websocket_status: " + cmp.get("v.websocket_status"));
     },
     start_connection: function(cmp, event, helper) {
-        window.WebSocket = window.WebSocket || window.MozWebSocket;
-        var websocket_url = `wss://${window.location.hostname}`;
+        console.log('hit start connection');
+        var WebSocket = window.WebSocket || window.MozWebSocket;
+        var websocket_url = "wss://heroku-platform-events-staging.herokuapp.com";
         var conn = new WebSocket(websocket_url);
         conn.onopen = function () {
             helper.set_websocket_status(cmp, event, helper, 'Connected');
@@ -28,13 +27,20 @@
             },50000);
         }.bind(this);
         conn.onerror = function (error) {
-            helper.websocket_error(cmp, event, helper, "ERROR!");
+            helper.websocket_error(cmp, event, helper, "Connection Closed");
         }.bind(this);
         conn.onclose = function() {
             helper.websocket_error(cmp, event, helper, "Connection Closed");
         }.bind(this);
         conn.onmessage = function (message) {
-            helper.do_message(cmp, event, helper, message);
+            console.log(message.data);
+            var msg_data = JSON.parse(message.data);
+            if(msg_data.payload) {
+                console.log("has payload");
+                helper.add_message(cmp, event, helper, msg_data.payload);
+            } else {
+                console.log("Message didn't have any data");
+            }
         }.bind(this);
     }
 })

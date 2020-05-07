@@ -5,7 +5,6 @@
     <label>fan out server</label>
     <oauthConfig>
         <callbackUrl>http://localhost:3000/oauth/_callback</callbackUrl>
-        <consumerKey></consumerKey>
         <scopes>Full</scopes>
     </oauthConfig>
 </ConnectedApp>

@@ -1,10 +1,19 @@
-<aura:component implements="flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes" access="global" >
-  <aura:attribute name="data" type="object" access="global"/>
+<aura:component implements="flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,forceCommunity:availableForAllPageTypes" access="global">
+  <aura:handler name="init" action="{!c.doInit}" value="{!this}"/>
+  <aura:attribute name="data" type="Object"/>
   <aura:attribute name="columns" type="List"/>
-  <aura:handler name="init" value="{! this }" action="{! c.init }"/>
+  <aura:attribute name="websocket_status" type="String" default="Started"/>
+
+  <ui:message 
+    title="{!if(v.websocket_status == 'Connected', 'Websocket Connected', 'Establishing Websocket Connection')}" 
+    severity="{!if(v.websocket_status == 'Connected', 'confirm', 'warning')}" 
+    closable="false">
+  </ui:message>
+
   <lightning:datatable
     keyField="id"
-    data="{! v.data }"
-    columns="{! v.columns }"
+    data="{!v.data}"
+    columns="{!v.columns}"
     hideCheckboxColumn="true"/>
+
 </aura:component>

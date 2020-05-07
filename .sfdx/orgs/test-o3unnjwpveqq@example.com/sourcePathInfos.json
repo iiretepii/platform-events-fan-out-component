@@ -34,14 +34,12 @@
         {
             "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default",
             "isDirectory": true,
-            "size": 224,
-            "modifiedTime": 1548446060883,
-            "changeTime": 1548446060883,
-            "contentHash": "54e9d465b55ccb40637749dc495334a12d10459c",
+            "size": 288,
+            "modifiedTime": 1588863085091,
+            "changeTime": 1588863085091,
+            "contentHash": "e7f85b78b473b763e7be5aa1030dc25a324224ce",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -77,16 +75,15 @@
     [
         "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/aura/platform_events_notification/platform_events_notification.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/aura/platform_events_notification/platform_events_notification.cmp",
             "isDirectory": false,
-            "size": 493,
-            "modifiedTime": 1588859874456,
-            "changeTime": 1588859874456,
-            "contentHash": "c901b03b61b20ceee9feead258b9178cb6d28bec",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 776,
+            "modifiedTime": 1588876895238,
+            "changeTime": 1588876895238,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "abb4845971438455d121fb4b9c3941c5f31b371a"
         }
     ],
     [
@@ -109,14 +106,13 @@
         {
             "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/aura/platform_events_notification/platform_events_notificationController.js",
             "isDirectory": false,
-            "size": 60,
-            "modifiedTime": 1548446060840,
-            "changeTime": 1548446060840,
-            "contentHash": "9fc7736232d1d9d7a40c4cea1d6b22e712d8f8b1",
+            "size": 344,
+            "modifiedTime": 1588876395259,
+            "changeTime": 1588870527033,
+            "contentHash": "befb9550f7c1010aa974e5dedac3da7d5131fd1a",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -124,14 +120,13 @@
         {
             "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/aura/platform_events_notification/platform_events_notificationHelper.js",
             "isDirectory": false,
-            "size": 1659,
-            "modifiedTime": 1548446060842,
-            "changeTime": 1548446060842,
-            "contentHash": "67805e379e354de3d0df954e5c45762026acdd1c",
+            "size": 1965,
+            "modifiedTime": 1588876722267,
+            "changeTime": 1588876722267,
+            "contentHash": "726a945c0ca7acedfdd12267ee4f4ee8fb2943e1",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -169,14 +164,13 @@
         {
             "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/connectedApps/platform_fan_out.connectedApp-meta.xml",
             "isDirectory": false,
-            "size": 510,
-            "modifiedTime": 1588859928975,
-            "changeTime": 1588859928975,
-            "contentHash": "78a648902cc94d057d148eabf844545adb443010",
+            "size": 389,
+            "modifiedTime": 1588863049395,
+            "changeTime": 1588863049395,
+            "contentHash": "65511de21f0a0ec27c7691550c9c9d481003320d",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -184,14 +178,12 @@
         {
             "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1548446060847,
-            "changeTime": 1548446060847,
-            "contentHash": "c2606f0d58be83a43a059724532049be1cb1de4a",
+            "size": 128,
+            "modifiedTime": 1588863085040,
+            "changeTime": 1588863085040,
+            "contentHash": "fee6e9ce1831fbaea37a3bdb39fb1a38ca3d95af",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -364,14 +356,13 @@
         {
             "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/settings/OrgPreference.settings-meta.xml",
             "isDirectory": false,
-            "size": 6383,
-            "modifiedTime": 1548446060836,
-            "changeTime": 1548446060836,
-            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56",
+            "size": 6243,
+            "modifiedTime": 1588860270416,
+            "changeTime": 1588860270416,
+            "contentHash": "6558507de64fc699d2de1f3fa906e37beed0ce72",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -379,14 +370,442 @@
         {
             "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component",
             "isDirectory": true,
-            "size": 288,
-            "modifiedTime": 1588858562252,
-            "changeTime": 1588858562252,
-            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "size": 320,
+            "modifiedTime": 1588860736959,
+            "changeTime": 1588860736959,
+            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/Contact.object-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/Contact.object-meta.xml",
+            "isDirectory": false,
+            "size": 12558,
+            "modifiedTime": 1588863085044,
+            "changeTime": 1588863085044,
+            "contentHash": "af87a1515931991851d49308e7b03a62ff4a9c11",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/AccountId.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/AccountId.field-meta.xml",
+            "isDirectory": false,
+            "size": 221,
+            "modifiedTime": 1588863085045,
+            "changeTime": 1588863085045,
+            "contentHash": "a5c3f07ba3a348335908401256dd2d9998990fcf",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/AssistantName.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/AssistantName.field-meta.xml",
+            "isDirectory": false,
+            "size": 268,
+            "modifiedTime": 1588863085046,
+            "changeTime": 1588863085046,
+            "contentHash": "5862d1e4accfa48b6c51259f446fefa1e3b7cd4c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/AssistantPhone.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/AssistantPhone.field-meta.xml",
+            "isDirectory": false,
+            "size": 269,
+            "modifiedTime": 1588863085046,
+            "changeTime": 1588863085046,
+            "contentHash": "9fbf29073495d72fd11e5746caecdef61b9351cd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/Birthdate.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/Birthdate.field-meta.xml",
+            "isDirectory": false,
+            "size": 264,
+            "modifiedTime": 1588863085047,
+            "changeTime": 1588863085047,
+            "contentHash": "ba34b7907f1f87441f8982fe53a082fa47b1aad0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/CleanStatus.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/CleanStatus.field-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1588863085047,
+            "changeTime": 1588863085047,
+            "contentHash": "b2a6d6cc0822db9616bc68852769a9ce9e31b8cb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/Department.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/Department.field-meta.xml",
+            "isDirectory": false,
+            "size": 199,
+            "modifiedTime": 1588863085048,
+            "changeTime": 1588863085048,
+            "contentHash": "3b56db2ab17440e863bd220f7b949c6666a8aa21",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/Description.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1588863085048,
+            "changeTime": 1588863085048,
+            "contentHash": "57d79a023b3596766f7369502cb5e2bac6a5cb92",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/DoNotCall.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/DoNotCall.field-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1588863085049,
+            "changeTime": 1588863085049,
+            "contentHash": "a69a1b0e3f0e15fe44c968e2d0c859d8a264cb1a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/Email.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/Email.field-meta.xml",
+            "isDirectory": false,
+            "size": 260,
+            "modifiedTime": 1588863085049,
+            "changeTime": 1588863085049,
+            "contentHash": "e9395bffc1e23c65d90854d9b78d59b9564601f5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/Fax.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/Fax.field-meta.xml",
+            "isDirectory": false,
+            "size": 258,
+            "modifiedTime": 1588863085050,
+            "changeTime": 1588863085050,
+            "contentHash": "5fc919194560e71def0e90ce3e20e368b3c104f8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/HasOptedOutOfEmail.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/HasOptedOutOfEmail.field-meta.xml",
+            "isDirectory": false,
+            "size": 207,
+            "modifiedTime": 1588863085051,
+            "changeTime": 1588863085051,
+            "contentHash": "ff5f1905a424ffb80a86c672ce8a2484010686e7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/HasOptedOutOfFax.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/HasOptedOutOfFax.field-meta.xml",
+            "isDirectory": false,
+            "size": 205,
+            "modifiedTime": 1588863085052,
+            "changeTime": 1588863085052,
+            "contentHash": "8436af1a1e25d1251260bd40b57c3d17b97ff22d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/HomePhone.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/HomePhone.field-meta.xml",
+            "isDirectory": false,
+            "size": 264,
+            "modifiedTime": 1588863085054,
+            "changeTime": 1588863085054,
+            "contentHash": "fbce4675080d6eebec42f5f7d5e112da5081d171",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/Jigsaw.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/Jigsaw.field-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1588863085054,
+            "changeTime": 1588863085054,
+            "contentHash": "4ada28399de9ac97f1dc447fb1aaa8b887d11974",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/LastCURequestDate.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/LastCURequestDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 159,
+            "modifiedTime": 1588863085055,
+            "changeTime": 1588863085055,
+            "contentHash": "dda4a3e4f235d3020ac7ec9ecad60f97db34e5ff",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/LastCUUpdateDate.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/LastCUUpdateDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 158,
+            "modifiedTime": 1588863085056,
+            "changeTime": 1588863085056,
+            "contentHash": "831121050c56f562af9389f75edae3a5ab0351f1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/LeadSource.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/LeadSource.field-meta.xml",
+            "isDirectory": false,
+            "size": 225,
+            "modifiedTime": 1588863085057,
+            "changeTime": 1588863085057,
+            "contentHash": "2edc10a4308166ada8b0fc2bece939fb3eea84b8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/MailingAddress.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/MailingAddress.field-meta.xml",
+            "isDirectory": false,
+            "size": 203,
+            "modifiedTime": 1588863085058,
+            "changeTime": 1588863085058,
+            "contentHash": "2aee360d036169b3a3b599183c72b43d549f6b61",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/MobilePhone.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/MobilePhone.field-meta.xml",
+            "isDirectory": false,
+            "size": 266,
+            "modifiedTime": 1588863085059,
+            "changeTime": 1588863085059,
+            "contentHash": "d40696fc7d3c309e79c81b09e64c86726f15b3a2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/Name.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/Name.field-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1588863085060,
+            "changeTime": 1588863085060,
+            "contentHash": "68769f37d93e5a8c8bc5ad8c2581f0f06ddca5f9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/OtherAddress.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/OtherAddress.field-meta.xml",
+            "isDirectory": false,
+            "size": 201,
+            "modifiedTime": 1588863085061,
+            "changeTime": 1588863085061,
+            "contentHash": "dd9820d5134fc39ed321237cbdef5a60b5776771",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/OtherPhone.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/OtherPhone.field-meta.xml",
+            "isDirectory": false,
+            "size": 265,
+            "modifiedTime": 1588863085062,
+            "changeTime": 1588863085062,
+            "contentHash": "da365cd67611c720083ca94bd7c7aec75a9c80a0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/OwnerId.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1588863085062,
+            "changeTime": 1588863085062,
+            "contentHash": "52c2c64fa2e6525fc461c88e9c37849e89259798",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/Phone.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/Phone.field-meta.xml",
+            "isDirectory": false,
+            "size": 260,
+            "modifiedTime": 1588863085063,
+            "changeTime": 1588863085063,
+            "contentHash": "a9a62e6501c58eb20a788fc8d30463ad656a2771",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/ReportsToId.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/ReportsToId.field-meta.xml",
+            "isDirectory": false,
+            "size": 290,
+            "modifiedTime": 1588863085063,
+            "changeTime": 1588863085063,
+            "contentHash": "56ce3c5114b7b66cf65b3c027d791cec61e1ee20",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/Title.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields/Title.field-meta.xml",
+            "isDirectory": false,
+            "size": 260,
+            "modifiedTime": 1588863085064,
+            "changeTime": 1588863085064,
+            "contentHash": "8a7dd0f868f488aead9626051311c87b20ad21f9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/flexipages/Contact_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/flexipages/Contact_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 7304,
+            "modifiedTime": 1588863085089,
+            "changeTime": 1588863085089,
+            "contentHash": "dffb17a80b555aee40be8520d633d9e7ab7877aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/cspTrustedSites/fan_out_websocket_server.cspTrustedSite-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/cspTrustedSites/fan_out_websocket_server.cspTrustedSite-meta.xml",
+            "isDirectory": false,
+            "size": 321,
+            "modifiedTime": 1588863085091,
+            "changeTime": 1588863085091,
+            "contentHash": "c128a9824ae4ced910eb436e434f47e4f80043bb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1588863085045,
+            "changeTime": 1588863085045,
+            "contentHash": "47adfd5ffb5b99db19f7f5b167792192778dbb7e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/objects/Contact/fields",
+            "isDirectory": true,
+            "size": 896,
+            "modifiedTime": 1588863085063,
+            "changeTime": 1588863085063,
+            "contentHash": "3677d481b57457ecc6349e8034c236ff661b606f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1588863085089,
+            "changeTime": 1588863085089,
+            "contentHash": "32f1b6b4eb2c3f479592c779097b710dcc7020dd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/cspTrustedSites",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx/platform-events-component/force-app/main/default/cspTrustedSites",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1588863085091,
+            "changeTime": 1588863085091,
+            "contentHash": "7ea23b1905d15fbd0ea53c509419837c74c7fb31",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
